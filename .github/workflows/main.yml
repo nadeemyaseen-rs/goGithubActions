@@ -6,7 +6,6 @@ jobs:
         name: Project A or Project B
 
         steps:
-
         - name: Checkout Main repository
           uses: actions/checkout@v2
           with:
